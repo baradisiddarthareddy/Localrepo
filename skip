@@ -1,0 +1,13 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex f32ed91..ea4087c 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -5,6 +5,6 @@[m
+     </head>[m
+     <body>[m
+         <p>Hello world</p>[m
+[31m-        <p>feature 1 (button)</p>[m
+[32m+[m[32m        <p>feature 1 (dropdown)</p>[m
+     </body>[m
+ </html>[m
+\ No newline at end of file[m
